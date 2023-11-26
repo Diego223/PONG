@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GAME.dir/src/main.cpp.o CMakeFiles/GAME.dir/src/Game/Game.cpp.o CMakeFiles/GAME.dir/src/Pong/Pong.cpp.o CMakeFiles/GAME.dir/src/Pong/Systems.cpp.o CMakeFiles/GAME.dir/src/Scene/Scene.cpp.o -o GAME  -L/usr/lib/x86_64-linux-gnu  -lSDL2 
